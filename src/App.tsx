@@ -138,4 +138,3 @@ function App() {
 }
 
 export default App
-// https://youtu.be/j898RGRw0b4?t=2088 34:48 in.  follow along.  (app working). 
